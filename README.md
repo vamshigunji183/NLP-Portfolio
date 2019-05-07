@@ -1,9 +1,9 @@
 # NLP-Portfolio
 
 ### NLP Projects
-[Recipe Summarization App](https://github.com/vamshigunji183/Recipe-Summarizer)
-[Twitter Sentiment Analysis](https://github.com/vamshigunji183/Sentiment-Analysis-Twitter)
-[Neural Machine Translation (EN-DE, EN-FN)](https://github.com/vamshigunji183/Neural-Machine-Translation)
+* [Recipe Summarization App](https://github.com/vamshigunji183/Recipe-Summarizer)
+* [Twitter Sentiment Analysis](https://github.com/vamshigunji183/Sentiment-Analysis-Twitter)
+* [Neural Machine Translation (EN-DE, EN-FN)](https://github.com/vamshigunji183/Neural-Machine-Translation)
 
 
 ### Author [Vamshi Krishna](https://www.linkedin.com/in/venkata-gunji/)
